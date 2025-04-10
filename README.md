@@ -8,8 +8,8 @@
 
 <div align=center>
   <a href="https://github.com/JaazielSlv">
-  <img height="140cm" src="https://github-readme-stats.vercel.app/api?username=silaspires&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="140cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=silaspires&layout=compact&langs_count=16&theme=dracula"/>
+  <img height="140cm" src="https://github-readme-stats.vercel.app/api?username=JaazielSlv&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="140cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaazielSlv&layout=compact&langs_count=16&theme=tokyonight"/>
 </div>
 
 ##
@@ -21,12 +21,11 @@
 
 <div align=center style="display: inline_block"><br>
   <p>Conhecimentos:</p>
-  <img align="center" alt="jaaziel-HTML" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-plain.svg" />
   <img align="center" alt="jaaziel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="jaaziel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="jaaziel-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="jaaziel-Php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-plain.svg" />
-  <img align="center" alt="jaaziel-Bash" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-plain.svg" />
+  <img align="center" alt="jaaziel-Php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
+  <img align="center" alt="jaaziel-Bash" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" />
 </div
 
 ##
