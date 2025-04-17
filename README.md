@@ -1,41 +1,70 @@
+<h2 align="left">Olá, eu sou Jaaziel Silva!  |  Hi there, i'm Jaaziel Silva</h2>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=200&size=14&duration=4000&pause=1000&width=435&lines=Ol%C3%A1%2C+eu+sou+Jaaziel+Silva!+%7C+Hi+there%2C+i'm+Jaaziel+Silva)](https://git.io/typing-svg)
+###
 
-- 👨🏾‍💻 Atualmente estudante de Redes de Computadores IFPB | Currently studying Computer Networks at IFPB
-- 🌱 Estudando Front-end e Back-end | Studying Front-end and Back-end
-- 🎯 Procurando por Jobs | Looking for jobs
+<p align="left">- 👨🏾‍💻 Atualmente estudante de Redes de Computadores IFPB | Currently studying Computer Networks at IFPB<br>- 🌱 Estudando Front-end e Back-end | Studying Front-end and Back-end<br>- 🎯 Procurando por Jobs | Looking for jobs</p>
 
-##
+###
 
-<div align=center>
-  <a href="https://github.com/JaazielSlv">
-  <img height="140cm" src="https://github-readme-stats.vercel.app/api?username=JaazielSlv&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="140cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaazielSlv&layout=compact&langs_count=19&theme=tokyonight"/>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JaazielSlv&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=pt-br&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JaazielSlv&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-##
-<div align=center style="display: inline_block"><br>
-<img src="https://raw.githubusercontent.com/JaazielSlv/jaazielslv/output/snake.svg" alt="Snake animation" />
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JaazielSlv/JaazielSlv/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JaazielSlv/JaazielSlv/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/JaazielSlv/JaazielSlv/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<p align="center">Conhecimentos:</p>
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="bash logo"  />
 </div>
 
-##
+###
 
-<div align=center style="display: inline_block"><br>
-  <p>Conhecimentos:</p>
-  <img align="center" alt="jaaziel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="jaaziel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="jaaziel-Javascript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />    
-  <img align="center" alt="jaaziel-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="jaaziel-Php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
-  <img align="center" alt="jaaziel-Bash" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" />
-  <img align="center" alt="jaaziel-Bash" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
-</div
+<p align="center">Contatos:</p>
 
-##
- 
-<div align=center style="display: inline_block"><br> 
-  <p>Contatos:</p>
-  <a href="https://www.instagram.com/jaazielslv?igsh=MzR2cHhyNnVjdjU2" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
-  <a href = "mailto:jaaziel.b.silva@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/jaaziel-batista-da-silva" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+###
+
+<div align="center">
+  <a href="https://www.instagram.com/jaazielslv?igsh=MzR2cHhyNnVjdjU2" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="mailto:jaaziel.b.silva@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/jaaziel-batista-da-silva" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
 </div>
+
+###
+
+<div align="center">
+  <img height="200" src="https://github.com/JaazielSlv/jaazielslv/blob/main/meu%20avatar.png"  />
+</div>
+
+###
