@@ -1,4 +1,5 @@
-## Olá, eu sou Jaaziel Silva! | Hi there, i'm Jaaziel Silva
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Ol%C3%A1%2C+eu+sou+Jaaziel+Silva!+%7C+Hi+there%2C+i'm+Jaaziel+Silva)](https://git.io/typing-svg)
 
 - 👨🏾‍💻 Atualmente estudante de Redes de Computadores IFPB | Currently studying Computer Networks at IFPB
 - 🌱 Estudando Front-end e Back-end | Studying Front-end and Back-end
