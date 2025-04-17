@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Ol%C3%A1%2C+eu+sou+Jaaziel+Silva!+%7C+Hi+there%2C+i'm+Jaaziel+Silva)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=200&size=14&duration=4000&pause=1000&width=435&lines=Ol%C3%A1%2C+eu+sou+Jaaziel+Silva!+%7C+Hi+there%2C+i'm+Jaaziel+Silva)](https://git.io/typing-svg)
 
 - 👨🏾‍💻 Atualmente estudante de Redes de Computadores IFPB | Currently studying Computer Networks at IFPB
 - 🌱 Estudando Front-end e Back-end | Studying Front-end and Back-end
