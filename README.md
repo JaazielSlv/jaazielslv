@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- 👨🏾‍💻 Atualmente estudante de Redes de Computadores IFPB | Currently studying Computer Networks at IFPB<br>- 🌱 Estudando Front-end e Back-end | Studying Front-end and Back-end<br>- 🎯 Procurando por Jobs | Looking for jobs</p>
+<p align="left">- 👨🏾‍💻 Atualmente cursando Redes de Computadores IFPB | Currently studying Computer Networks at IFPB<br>- 🌱 Estudando Front-end e Back-end | Studying Front-end and Back-end<br>- 🎯 Procurando por Jobs | Looking for jobs</p>
 
 ###
 
