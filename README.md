@@ -78,3 +78,11 @@ cobrinha
 </div>
 
 ###
+
+<div align="center">
+  <a href="https://open.spotify.com/user/317an5pt2u3tkaeupclkrjyjarny">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=317an5pt2u3tkaeupclkrjyjarny&count=5" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
