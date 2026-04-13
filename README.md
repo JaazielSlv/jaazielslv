@@ -15,16 +15,20 @@
 <br> 
 <!--
 cobrinha
-<img src="https://raw.githubusercontent.com/JaazielSlv/jaazielslv/output/snake.svg" alt="Snake animation" />
 -->
+<img src="https://raw.githubusercontent.com/JaazielSlv/jaazielslv/output/snake.svg" alt="Snake animation" />
 
 
+<!--
+pacman
+-->
+<!--
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JaazielSlv/JaazielSlv/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JaazielSlv/JaazielSlv/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/JaazielSlv/JaazielSlv/output/pacman-contribution-graph.svg">
 </picture>
-
+-->
 ###
 
 ###
@@ -78,11 +82,12 @@ cobrinha
 </div>
 
 ###
-
+<!--
 <div align="center">
   <a href="https://open.spotify.com/user/317an5pt2u3tkaeupclkrjyjarny">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=317an5pt2u3tkaeupclkrjyjarny&count=5" alt="Spotify recently played"  />
   </a>
 </div>
+-->
 
 ###
